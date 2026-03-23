@@ -1,0 +1,16 @@
+{
+  "name": "GigaSOL",
+  "symbol": "GSOL",
+  "description": "GigaSOL is the gigachad memecoin of the Solana ecosystem. Built for those who think bigger, move faster, and never paper hand. Pure vibes. Zero dilution.",
+  "image": "./examples/logo.png",
+  "twitter": "https://twitter.com/gigasol_sol",
+  "telegram": "https://t.me/gigasol_sol",
+  "website": "https://gigasol.fun",
+  "initial_buy_sol": 0.1,
+  "slippage": 10,
+  "priority_fee_sol": 0.0005,
+  "generate_image": false,
+  "generate_landing": true,
+  "image_style": "vibrant",
+  "dry_run": false
+}
