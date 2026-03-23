@@ -3,6 +3,7 @@
 End-to-end Solana token launcher. One command goes from idea → live token on PumpFun with IPFS metadata, AI-generated logo, and a ready-to-deploy landing page.
 
 **Built by LixerDev**
+Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![Python](https://img.shields.io/badge/python-3.11+-green)
