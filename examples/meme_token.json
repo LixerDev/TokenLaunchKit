@@ -1,0 +1,16 @@
+{
+  "name": "SolDoge",
+  "symbol": "SDOGE",
+  "description": "",
+  "image": null,
+  "twitter": "https://twitter.com/soldoge_sol",
+  "telegram": "https://t.me/soldoge",
+  "website": "",
+  "initial_buy_sol": 0.05,
+  "slippage": 15,
+  "priority_fee_sol": 0.001,
+  "generate_image": true,
+  "generate_landing": true,
+  "image_style": "cartoon",
+  "dry_run": false
+}
