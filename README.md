@@ -233,3 +233,7 @@ output/                 Generated files (gitignored)
     index.html          Landing page
     receipt.json        Launch receipt
 ```
+# 🚀 Coin TokenLaunchKit
+
+<img width="1024" height="1024" alt="92c95d97-0296-4730-9c28-1cd049026fde" src="https://github.com/user-attachments/assets/43a82a45-961d-443f-9901-83a337b0c345" />
+
