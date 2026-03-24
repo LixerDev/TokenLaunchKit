@@ -3,8 +3,6 @@
 <img width="1365" height="1024" alt="image" src="https://github.com/user-attachments/assets/1d5e8b10-7386-4ecc-bb76-98b79ad984b1" />
 
 
-End-to-end Solana token launcher. One command goes from idea → live token on PumpFun with IPFS metadata, AI-generated logo, and a ready-to-deploy landing page.
-
 **Built by LixerDev**
 Follow me here on my personal Twitter (X): https://x.com/Lix_Devv
 
